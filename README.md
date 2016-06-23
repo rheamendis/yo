@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # yo
 editing from two
